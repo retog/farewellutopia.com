@@ -2,7 +2,7 @@
 
 <> a s:ProductModel;
   s:brand "KISS";
-  s:name "Stadler KISS"
+  s:name "Stadler KISS";
   s:category <train>;
   s:manufacturer <stadler>;
 .

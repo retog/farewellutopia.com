@@ -1,0 +1,6 @@
+@prefix s: <http://schema.org/> .
+
+<> a s:Organization;
+  s:name "ABB";
+  s:legalName "ABB Ltd";
+.

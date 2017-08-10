@@ -1,0 +1,6 @@
+@prefix s: <http://schema.org/> .
+
+<> a s:Organization;
+  s:name "Stadler";
+  s:legalName "Stadler Rail AG";
+.

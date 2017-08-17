@@ -1,0 +1,6 @@
+@prefix s: <http://schema.org/> .
+
+<./> a s:Person;
+  s:name "Reto Gmür";
+  s:comment "A repo to demonstrate linked.guru"
+.

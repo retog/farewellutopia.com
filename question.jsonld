@@ -1,0 +1,17 @@
+{
+  "@context": "http://schema.org",
+  "@type": "AskAction",
+  "@id": "",
+  "agent": {
+    "@type": "Person",
+    "name": "John"
+  },
+  "recipient": {
+    "@type": "Person",
+    "name": "Steve"
+  },
+  "question": {
+    "@type": "Question",
+    "text": "What's 2 + 2?"
+  }
+}

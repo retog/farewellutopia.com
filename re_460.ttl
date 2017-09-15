@@ -1,8 +1,0 @@
-@prefix s: <http://schema.org/> .
-
-<> a s:ProductModel;
-  s:name "Re 460";
-  s:brand "Lok 2000";
-  s:category <locomotive>;
-  s:manufacturer <ABB>;
-.

@@ -1,7 +1,0 @@
-@prefix s: <http://schema.org/> .
-
-<./> a s:WebSite;
-  s:name "Reto Gmür's linked.guru demo";
-  s:comment "A repo to demonstrate linked.guru";
-  s:comment "Update now work!"
-.

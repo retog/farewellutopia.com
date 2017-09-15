@@ -1,8 +1,0 @@
-@prefix s: <http://schema.org/> .
-
-<> a s:ProductModel;
-  s:brand "Mutz";
-  s:category <train>;
-  s:manufacturer <stadler>;
-  s:isVariantOf <kiss>;
-.

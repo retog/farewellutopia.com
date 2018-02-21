@@ -12,6 +12,6 @@
   },
   "question": {
     "@type": "Question",
-    "text": "What's 2 + 3?"
+    "text": "What will the webhook get?"
   }
 }

@@ -1,7 +1,7 @@
 {
   "@context": "http://schema.org",
   "@type": "AskAction",
-  "@id": "",
+  "@id": "./question",
   "agent": {
     "@type": "Person",
     "name": "John"

@@ -8,7 +8,7 @@
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
 
 <silly> a r2h:Renderer;
-    r2h:type s:AskAction;
+    r2h:type s:Question;
     r2h:context r2h:Default-Naked;
     r2h:mustache """
       To be or not to be, is the ony question""".

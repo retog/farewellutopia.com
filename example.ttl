@@ -1,0 +1,6 @@
+<test> <http://xmlns.com/foaf/0.1/knows> _:2 .
+_:2 <http://xmlns.com/foaf/0.1/name> "Alice" .
+<http://ex.org/charlie> <http://xmlns.com/foaf/0.1/knows> _:2 .
+<http://ex.org/bob> <http://xmlns.com/foaf/0.1/knows> _:1 .
+_:1 <http://xmlns.com/foaf/0.1/knows>  <test> .
+_:1 <http://xmlns.com/foaf/0.1/knows>  <http://ex.org/danny> .

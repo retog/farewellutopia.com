@@ -11,4 +11,4 @@
     r2h:type s:Question;
     r2h:context r2h:Default-Naked;
     r2h:mustache """
-      To be or not to be, is the ony question""".
+      To be or not to be, is the only question""".

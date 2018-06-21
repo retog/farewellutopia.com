@@ -1,3 +1,4 @@
+@base <archive/> .
 </2011/09/19/Sensor-Networks> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://purl.org/rss/1.0/item> .
 </2011/09/19/Sensor-Networks> <http://purl.org/rss/1.0/title> "Sensor Networks" .
 </2011/09/19/Sensor-Networks> <http://purl.org/dc/elements/1.1/date> "2011-09-19T07:15:19.5Z"^^<http://www.w3.org/2001/XMLSchema#dateTime> .

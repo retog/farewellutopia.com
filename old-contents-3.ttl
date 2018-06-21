@@ -1,3 +1,4 @@
+@base <archive/> .
 </> <http://clerezza.org/2009/09/hierarchy#members> _:Ad0476c5X3aX132436c140cX3aXX2dX7f54 .
 </2010/09/06/enrichtung-plueschtiere-klein-72x100.png> <http://xmlns.com/foaf/0.1/maker> _:Ad0476c5X3aX132436c140cX3aXX2dX7f52 .
 </2010/09/06/enrichtung-plueschtiere-klein-145x200.png> <http://xmlns.com/foaf/0.1/maker> _:Ad0476c5X3aX132436c140cX3aXX2dX7f52 .

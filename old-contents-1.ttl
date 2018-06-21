@@ -1,3 +1,4 @@
+@base <archive/> .
 </2010/09/06/enrichtung-plueschtiere-klein.png> <http://www.w3.org/2003/12/exif/ns#width> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
 </2010/09/06/enrichtung-plueschtiere-klein.png> <http://www.w3.org/2003/12/exif/ns#height> "688"^^<http://www.w3.org/2001/XMLSchema#integer> .
 </2010/09/06/enrichtung-plueschtiere-klein.png> <http://discobits.org/ontology#thumbnail> </2010/09/06/enrichtung-plueschtiere-klein-72x100.png> .

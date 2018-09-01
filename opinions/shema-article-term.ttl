@@ -5,7 +5,7 @@
 
 <> a schema:Article;
 schema:name "Thought";
-schema:headline "Thought";
+schema:headline "Thought:";
 schema:articleBody """An Asssertion, Claim, Thought, Opinion class would allow for a semantically more precise description than schema:Article. However I use schema:Article 
 to provide a basic unit of content withouth (much) semantic classification.""";
 rdfs:seeAlso <./separate-publishing>

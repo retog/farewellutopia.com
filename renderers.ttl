@@ -18,33 +18,15 @@
         {{.}}
       </title>
       <style>
-
+        header {
+            background-color: grey;
+        }
       </style>
     </head>
     <body>
-        {{{:render . r2h:Default}}}
-    </body>
-    """.
-
-[] a r2h:Renderer;
-    r2h:type s:Article;
-    rdfs:comment """Renders a full page, delegating to renderers in the default 
-    context for the body, and to gt:HtmlHead for things like the html title""";
-    r2h:context gt:FullPage;
-    r2h:mustache """
-    {{{@prefix r2h: <http://rdf2h.github.io/2015/rdf2h#>}}}
-    {{{@prefix gt: <http://rdf2h.github.io/2016/generic-rdf2h-Renderers/>}}}
-    {{{@prefix s: <http://schema.org/>}}}
-    <head>
-      <title>
-        {{.}}
-      </title>
-      <style>
-
-      </style>
-    </head>
-    <body>
-        Stuff
+        <header>
+            Farewellutopia is awesome!
+        </header>
         {{{:render . r2h:Default}}}
     </body>
     """.

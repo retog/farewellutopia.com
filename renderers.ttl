@@ -26,7 +26,8 @@
     </head>
     <body>
         <header>
-            Farewellutopia is awesome!
+            <h1>farewellutopia.com</h1>
+            Half-finished thoughts by Reto Gmür
         </header>
         {{{:render . r2h:Default}}}
     </body>

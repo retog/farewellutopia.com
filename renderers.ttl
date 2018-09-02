@@ -31,3 +31,18 @@
         </div>
     </body>
     """.
+
+[] a r2h:Renderer;
+    r2h:type rdfs:Resource;
+    r2h:context r2h:Tail;
+    r2h:mustache """
+    {{{@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>}}}
+    <div>
+    See also:
+    <ul>
+    {{#rdfs:seeAlso}}
+    {{.}}
+    {{/rdfs:seeAlso}}
+    </ul>
+    </div>
+    """.

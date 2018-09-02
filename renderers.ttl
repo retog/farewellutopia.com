@@ -38,11 +38,13 @@
     r2h:mustache """
     {{{@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>}}}
     <div>
-    See also:
-    <ul>
-    {{#rdfs:seeAlso}}
-    {{.}}
-    {{/rdfs:seeAlso}}
-    </ul>
+      See also:
+      <ul>
+        {{#rdfs:seeAlso}}
+          <li>
+            {{.}}
+          </li>
+        {{/rdfs:seeAlso}}
+      </ul>
     </div>
     """.

@@ -19,9 +19,6 @@
         {{.}}
       </title>
       <style>
-        header {
-            background-color: grey;
-        }
       </style>
     </head>
     <body>
@@ -29,6 +26,8 @@
             <h1>farewellutopia.com</h1>
             Half-finished thoughts by Reto Gmür
         </header>
+        <div class="zz-content">
         {{{:render . r2h:Default}}}
+        </div>
     </body>
     """.

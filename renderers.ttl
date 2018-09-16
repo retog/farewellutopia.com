@@ -48,5 +48,5 @@
           {{/rdfs:seeAlso}}
         </ul>
       </div>
-    {{</+rdfs:seeAlso}}
+    {{#/+rdfs:seeAlso}}
     """.

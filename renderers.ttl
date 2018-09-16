@@ -49,4 +49,16 @@
         </ul>
       </div>
     {{/+rdfs:seeAlso}}
+    {{#+rdfs:seeAlso<-}}
+      <div class="seeAlso">
+        Inverse see also:
+        <ul>
+          {{#rdfs:seeAlso<-}}
+            <li>
+              <a href="{{{.}}}">{{.}}</a>
+            </li>
+          {{/rdfs:seeAlso<-}}
+        </ul>
+      </div>
+    {{/+rdfs:seeAlso<-}}
     """.

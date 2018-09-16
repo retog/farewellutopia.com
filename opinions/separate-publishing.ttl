@@ -6,6 +6,6 @@
 <> a schema:Article;
 schema:name "Separation";
 schema:headline "Separate Publishing";
-schema:articleBody """it should be possible to store thoughts and opinions separately from statements about their relevance and endosement.""";
+schema:articleBody """it should be possible to store thoughts and opinions separately from statements about their relevance and endorsement.""";
 rdfs:seeAlso <./>
 .

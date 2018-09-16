@@ -54,3 +54,7 @@ hr {
 .subheader {
     color: rgba(255,255,255,70%)
 }
+
+.seeAlso {
+    margin-top: 10pt;
+}

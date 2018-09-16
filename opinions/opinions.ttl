@@ -10,4 +10,4 @@ schema:articleBody """Maybe...
 I should elaborate this on multiple lines.
 <div>
 <em>Maybe</em> even with HTML
-</div>""".
+</div>"""^^rdf:HTML.
